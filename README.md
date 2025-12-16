@@ -1,5 +1,8 @@
 ## Binary Program
-This is a program to convert Decimal to Binary numbers. It also provides some interesting functions and some insightful techniques about one's and two's complement representation of binary numbers.
+This is a program to convert Decimal to Binary numbers. It also provides some extra functions and insightful techniques about one's and two's complement representation of binary numbers.
+
+## Installation
+In order to run this program you need to install the Java JDK. On Linux it is a matter of using your package manager and on Windows/Mac you need to get it from Oracle.
 
 ## Folder Structure
 The workspace contains two folders by default, where:
