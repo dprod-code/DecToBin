@@ -16,7 +16,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Related Links
 
-The link to the accompanied youtube video that demos this project is here:
+The link to the accompanied youtube video that demos this project is here: https://www.youtube.com/watch?v=nl44tLHejvw
 
 ## License
 This project is licensed under the The Unlicense License - see the LICENSE.md file for details
